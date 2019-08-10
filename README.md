@@ -4,3 +4,5 @@ https://medium.com/@SlackBeck/스프링-부트-auto-configuration과-jpa-하이�
 - @OneToOne관계, @OneToMany, @ManyToOne 등.. +) 안에 option들을 봐야함
 ## 19-08-09
 - attach 
+## 19-08-10
+- jpa crud
