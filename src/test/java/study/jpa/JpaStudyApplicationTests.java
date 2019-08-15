@@ -1,5 +1,6 @@
 package study.jpa;
 
+import org.junit.After;
 import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -32,7 +33,7 @@ public class JpaStudyApplicationTests {
         assertThat(tester.getPhone(), is("010-4567-4567"));
     }
 
-    @Test@Ignore
+    @After
     public void deleteAll(){
         userRepository.deleteAll();
     }
