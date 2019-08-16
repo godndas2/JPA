@@ -7,6 +7,6 @@ https://medium.com/@SlackBeck/스프링-부트-auto-configuration과-jpa-하이�
 ## 19-08-09
 - attach 
 ## 19-08-10
-- jpa crud  
+- jpa crud ( Criteria 사용 )
 ## 19-08-13  
 - 관계 매핑, @Join해서 데이터처리 postman
