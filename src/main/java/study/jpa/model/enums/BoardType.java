@@ -1,7 +1,7 @@
 package study.jpa.model.enums;
 
 public enum BoardType {
-//    notice("공지사항");
+    notice("공지사항"),
     free("자유게시판");
 
     private String value;
