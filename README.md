@@ -10,3 +10,5 @@ https://medium.com/@SlackBeck/스프링-부트-auto-configuration과-jpa-하이�
 - jpa crud ( Criteria 사용 )
 ## 19-08-13  
 - 관계 매핑, @Join해서 데이터처리 postman
+
+ > <i>studybootjpa Repositroy에서 Lv3 시작 </i>
